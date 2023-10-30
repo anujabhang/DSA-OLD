@@ -442,7 +442,7 @@ int main()
     int n;
     do
     {
-        printf("Enter Your Choice:\n");
+        printf("\nEnter Your Choice:\n\n");
         printf("1. Admission Form\n");
         printf("2. Allocate Seats\n");
         printf("3. Take Data from CSV file\n");
